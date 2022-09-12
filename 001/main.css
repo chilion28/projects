@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.wrapper {
+  padding: 2em;
+  margin: auto;
+  width: 100vw;
+  height: 100vh;
+  background-color: #D1D1D1;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center; }
+  .wrapper-text {
+    text-align: center;
+    background-color: #000000;
+    color: #fff;
+    padding: 1em; }
+    .wrapper-text:hover {
+      cursor: pointer;
+      background-color: #AB3032; }
