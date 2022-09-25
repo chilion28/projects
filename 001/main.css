@@ -19,7 +19,8 @@ body {
     text-align: center;
     background-color: #000000;
     color: #fff;
-    padding: 1em; }
+    padding: 1em;
+    min-width: 100px; }
     .wrapper-text:hover {
       cursor: pointer;
       background-color: #AB3032; }
